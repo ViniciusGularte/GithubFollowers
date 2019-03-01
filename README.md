@@ -12,9 +12,9 @@ Criando um extensão para
 ### Instalação Google Chrome :crystal_ball:
 
 <li>    Na aba do navegador, digite chrome://extensions
-<li>    Clique em Load Unpack, selecione a pasta ZeroProcrastinacao e dê ok
+<li>    Clique em Load Unpack, selecione a pasta  e dê ok
 
 ### Instalação Mozilla Firefox :crystal_ball:
 
 <li>    Na aba do navegador, digite about:debugging
-<li>    Clique em Load Temporary Add-on, selecione a pasta ZeroProcrastinacao e dê ok
+<li>    Clique em Load Temporary Add-on, selecione a pasta  e dê ok
