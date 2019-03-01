@@ -1,6 +1,6 @@
   var followers = []
 
-  fetch('https://api.github.com/users/viniciusgularte/followers')
+  fetch('https://api.github.com/users/viniciusgularte/followers?page=1&per_page=100')
     .then(response => response.json())
     .then((data) => {
       // verifica array de followers
